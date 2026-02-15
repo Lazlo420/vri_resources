@@ -1,0 +1,1 @@
+# vri_resources
