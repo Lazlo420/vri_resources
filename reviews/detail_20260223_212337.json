@@ -1,0 +1,2780 @@
+{
+    "id_001.jpg": {
+        "og_filename": "tif_6_mosaico_0033_0010.png",
+        "class": "construction waste",
+        "confidence": 0.5505,
+        "veredict": false
+    },
+    "id_002.jpg": {
+        "og_filename": "tif_1_mosaico_0016_0023.png",
+        "class": "domestic garbage",
+        "confidence": 0.4103,
+        "veredict": true
+    },
+    "id_003.jpg": {
+        "og_filename": "tif_13_mosaico_0026_0011.png",
+        "class": "construction waste",
+        "confidence": 0.6639,
+        "veredict": true
+    },
+    "id_004.jpg": {
+        "og_filename": "tif_1_mosaico_0014_0025.png",
+        "class": "domestic garbage",
+        "confidence": 0.32,
+        "veredict": false
+    },
+    "id_005.jpg": {
+        "og_filename": "tif_1_mosaico_0022_0040.png",
+        "class": "domestic garbage",
+        "confidence": 0.6342,
+        "veredict": true
+    },
+    "id_006.jpg": {
+        "og_filename": "tif_1_mosaico_0022_0040.png",
+        "class": "construction waste",
+        "confidence": 0.4613,
+        "veredict": true
+    },
+    "id_007.jpg": {
+        "og_filename": "tif_6_mosaico_0047_0023.png",
+        "class": "construction waste",
+        "confidence": 0.3861,
+        "veredict": null
+    },
+    "id_008.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0039.png",
+        "class": "agriculture forestry",
+        "confidence": 0.664,
+        "veredict": null
+    },
+    "id_009.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0006.png",
+        "class": "construction waste",
+        "confidence": 0.9479,
+        "veredict": null
+    },
+    "id_0010.jpg": {
+        "og_filename": "tif_5_mosaico_0088_0019.png",
+        "class": "construction waste",
+        "confidence": 0.821,
+        "veredict": null
+    },
+    "id_011.jpg": {
+        "og_filename": "tif_1_mosaico_0049_0007.png",
+        "class": "agriculture forestry",
+        "confidence": 0.6544,
+        "veredict": null
+    },
+    "id_012.jpg": {
+        "og_filename": "tif_6_mosaico_0024_0020.png",
+        "class": "construction waste",
+        "confidence": 0.3928,
+        "veredict": null
+    },
+    "id_013.jpg": {
+        "og_filename": "tif_1_mosaico_0039_0005.png",
+        "class": "domestic garbage",
+        "confidence": 0.4684,
+        "veredict": null
+    },
+    "id_014.jpg": {
+        "og_filename": "tif_1_mosaico_0039_0005.png",
+        "class": "construction waste",
+        "confidence": 0.4237,
+        "veredict": null
+    },
+    "id_015.jpg": {
+        "og_filename": "tif_1_mosaico_0027_0018.png",
+        "class": "domestic garbage",
+        "confidence": 0.735,
+        "veredict": null
+    },
+    "id_016.jpg": {
+        "og_filename": "tif_1_mosaico_0027_0018.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4189,
+        "veredict": null
+    },
+    "id_017.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0044.png",
+        "class": "domestic garbage",
+        "confidence": 0.7394,
+        "veredict": null
+    },
+    "id_018.jpg": {
+        "og_filename": "tif_1_mosaico_0023_0021.png",
+        "class": "construction waste",
+        "confidence": 0.9476,
+        "veredict": null
+    },
+    "id_019.jpg": {
+        "og_filename": "tif_1_mosaico_0047_0013.png",
+        "class": "agriculture forestry",
+        "confidence": 0.6709,
+        "veredict": null
+    },
+    "id_020.jpg": {
+        "og_filename": "tif_1_mosaico_0012_0013.png",
+        "class": "domestic garbage",
+        "confidence": 0.7615,
+        "veredict": null
+    },
+    "id_021.jpg": {
+        "og_filename": "tif_1_mosaico_0053_0041.png",
+        "class": "domestic garbage",
+        "confidence": 0.337,
+        "veredict": null
+    },
+    "id_022.jpg": {
+        "og_filename": "tif_6_mosaico_0036_0020.png",
+        "class": "construction waste",
+        "confidence": 0.7313,
+        "veredict": null
+    },
+    "id_023.jpg": {
+        "og_filename": "tif_1_mosaico_0048_0027.png",
+        "class": "domestic garbage",
+        "confidence": 0.5636,
+        "veredict": null
+    },
+    "id_024.jpg": {
+        "og_filename": "tif_1_mosaico_0037_0005.png",
+        "class": "domestic garbage",
+        "confidence": 0.5214,
+        "veredict": null
+    },
+    "id_025.jpg": {
+        "og_filename": "tif_1_mosaico_0031_0017.png",
+        "class": "construction waste",
+        "confidence": 0.8206,
+        "veredict": null
+    },
+    "id_026.jpg": {
+        "og_filename": "tif_1_mosaico_0031_0017.png",
+        "class": "construction waste",
+        "confidence": 0.3762,
+        "veredict": null
+    },
+    "id_027.jpg": {
+        "og_filename": "tif_1_mosaico_0029_0017.png",
+        "class": "domestic garbage",
+        "confidence": 0.8773,
+        "veredict": null
+    },
+    "id_028.jpg": {
+        "og_filename": "tif_6_mosaico_0027_0012.png",
+        "class": "construction waste",
+        "confidence": 0.8369,
+        "veredict": null
+    },
+    "id_029.jpg": {
+        "og_filename": "tif_1_mosaico_0011_0030.png",
+        "class": "construction waste",
+        "confidence": 0.6702,
+        "veredict": null
+    },
+    "id_030.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0032.png",
+        "class": "agriculture forestry",
+        "confidence": 0.5347,
+        "veredict": null
+    },
+    "id_031.jpg": {
+        "og_filename": "tif_1_mosaico_0007_0039.png",
+        "class": "domestic garbage",
+        "confidence": 0.4293,
+        "veredict": null
+    },
+    "id_032.jpg": {
+        "og_filename": "tif_6_mosaico_0013_0028.png",
+        "class": "construction waste",
+        "confidence": 0.4833,
+        "veredict": null
+    },
+    "id_033.jpg": {
+        "og_filename": "tif_7_mosaico_0015_0004.png",
+        "class": "construction waste",
+        "confidence": 0.5203,
+        "veredict": null
+    },
+    "id_034.jpg": {
+        "og_filename": "tif_3_mosaico_0002_0008.png",
+        "class": "domestic garbage",
+        "confidence": 0.3679,
+        "veredict": null
+    },
+    "id_035.jpg": {
+        "og_filename": "tif_3_mosaico_0002_0008.png",
+        "class": "construction waste",
+        "confidence": 0.3245,
+        "veredict": null
+    },
+    "id_036.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0040.png",
+        "class": "domestic garbage",
+        "confidence": 0.6383,
+        "veredict": null
+    },
+    "id_037.jpg": {
+        "og_filename": "tif_13_mosaico_0025_0003.png",
+        "class": "domestic garbage",
+        "confidence": 0.3807,
+        "veredict": null
+    },
+    "id_038.jpg": {
+        "og_filename": "tif_13_mosaico_0025_0003.png",
+        "class": "construction waste",
+        "confidence": 0.3758,
+        "veredict": null
+    },
+    "id_039.jpg": {
+        "og_filename": "tif_1_mosaico_0022_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.785,
+        "veredict": null
+    },
+    "id_040.jpg": {
+        "og_filename": "tif_1_mosaico_0052_0010.png",
+        "class": "domestic garbage",
+        "confidence": 0.4443,
+        "veredict": null
+    },
+    "id_041.jpg": {
+        "og_filename": "tif_5_mosaico_0097_0018.png",
+        "class": "construction waste",
+        "confidence": 0.3792,
+        "veredict": null
+    },
+    "id_042.jpg": {
+        "og_filename": "tif_1_mosaico_0057_0024.png",
+        "class": "domestic garbage",
+        "confidence": 0.3587,
+        "veredict": null
+    },
+    "id_043.jpg": {
+        "og_filename": "tif_1_mosaico_0057_0024.png",
+        "class": "construction waste",
+        "confidence": 0.6438,
+        "veredict": null
+    },
+    "id_044.jpg": {
+        "og_filename": "tif_1_mosaico_0056_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.7871,
+        "veredict": null
+    },
+    "id_045.jpg": {
+        "og_filename": "tif_6_mosaico_0036_0015.png",
+        "class": "construction waste",
+        "confidence": 0.4467,
+        "veredict": null
+    },
+    "id_046.jpg": {
+        "og_filename": "tif_1_mosaico_0010_0022.png",
+        "class": "domestic garbage",
+        "confidence": 0.5653,
+        "veredict": null
+    },
+    "id_047.jpg": {
+        "og_filename": "tif_1_mosaico_0010_0022.png",
+        "class": "domestic garbage",
+        "confidence": 0.3138,
+        "veredict": null
+    },
+    "id_048.jpg": {
+        "og_filename": "tif_1_mosaico_0010_0022.png",
+        "class": "construction waste",
+        "confidence": 0.6632,
+        "veredict": null
+    },
+    "id_049.jpg": {
+        "og_filename": "tif_1_mosaico_0050_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.4314,
+        "veredict": null
+    },
+    "id_050.jpg": {
+        "og_filename": "tif_1_mosaico_0050_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.396,
+        "veredict": null
+    },
+    "id_051.jpg": {
+        "og_filename": "tif_1_mosaico_0050_0007.png",
+        "class": "construction waste",
+        "confidence": 0.3416,
+        "veredict": null
+    },
+    "id_052.jpg": {
+        "og_filename": "tif_6_mosaico_0030_0010.png",
+        "class": "construction waste",
+        "confidence": 0.3998,
+        "veredict": null
+    },
+    "id_053.jpg": {
+        "og_filename": "tif_1_mosaico_0006_0025.png",
+        "class": "domestic garbage",
+        "confidence": 0.9174,
+        "veredict": null
+    },
+    "id_054.jpg": {
+        "og_filename": "tif_1_mosaico_0006_0025.png",
+        "class": "domestic garbage",
+        "confidence": 0.4876,
+        "veredict": null
+    },
+    "id_055.jpg": {
+        "og_filename": "tif_13_mosaico_0024_0003.png",
+        "class": "construction waste",
+        "confidence": 0.3796,
+        "veredict": null
+    },
+    "id_056.jpg": {
+        "og_filename": "tif_1_mosaico_0012_0030.png",
+        "class": "domestic garbage",
+        "confidence": 0.7509,
+        "veredict": null
+    },
+    "id_057.jpg": {
+        "og_filename": "tif_1_mosaico_0012_0030.png",
+        "class": "construction waste",
+        "confidence": 0.6345,
+        "veredict": null
+    },
+    "id_058.jpg": {
+        "og_filename": "tif_1_mosaico_0012_0030.png",
+        "class": "construction waste",
+        "confidence": 0.3178,
+        "veredict": null
+    },
+    "id_059.jpg": {
+        "og_filename": "tif_1_mosaico_0041_0037.png",
+        "class": "domestic garbage",
+        "confidence": 0.6053,
+        "veredict": null
+    },
+    "id_060.jpg": {
+        "og_filename": "tif_1_mosaico_0041_0037.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3113,
+        "veredict": null
+    },
+    "id_061.jpg": {
+        "og_filename": "tif_1_mosaico_0040_0000.png",
+        "class": "construction waste",
+        "confidence": 0.9225,
+        "veredict": null
+    },
+    "id_062.jpg": {
+        "og_filename": "tif_1_mosaico_0010_0028.png",
+        "class": "domestic garbage",
+        "confidence": 0.4737,
+        "veredict": null
+    },
+    "id_063.jpg": {
+        "og_filename": "tif_5_mosaico_0091_0019.png",
+        "class": "construction waste",
+        "confidence": 0.4877,
+        "veredict": null
+    },
+    "id_064.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0026.png",
+        "class": "domestic garbage",
+        "confidence": 0.6587,
+        "veredict": null
+    },
+    "id_065.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0026.png",
+        "class": "domestic garbage",
+        "confidence": 0.3866,
+        "veredict": null
+    },
+    "id_066.jpg": {
+        "og_filename": "tif_3_mosaico_0021_0020.png",
+        "class": "domestic garbage",
+        "confidence": 0.3965,
+        "veredict": null
+    },
+    "id_067.jpg": {
+        "og_filename": "tif_11_mosaico_0022_0007.png",
+        "class": "construction waste",
+        "confidence": 0.5137,
+        "veredict": null
+    },
+    "id_068.jpg": {
+        "og_filename": "tif_11_mosaico_0022_0007.png",
+        "class": "disposed garbage",
+        "confidence": 0.3663,
+        "veredict": null
+    },
+    "id_069.jpg": {
+        "og_filename": "tif_1_mosaico_0040_0033.png",
+        "class": "domestic garbage",
+        "confidence": 0.3204,
+        "veredict": null
+    },
+    "id_070.jpg": {
+        "og_filename": "tif_1_mosaico_0041_0030.png",
+        "class": "construction waste",
+        "confidence": 0.4001,
+        "veredict": null
+    },
+    "id_071.jpg": {
+        "og_filename": "tif_2_mosaico_0029_0018.png",
+        "class": "construction waste",
+        "confidence": 0.399,
+        "veredict": null
+    },
+    "id_072.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.5098,
+        "veredict": null
+    },
+    "id_073.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0016.png",
+        "class": "domestic garbage",
+        "confidence": 0.6619,
+        "veredict": null
+    },
+    "id_074.jpg": {
+        "og_filename": "tif_12_mosaico_0008_0033.png",
+        "class": "construction waste",
+        "confidence": 0.4093,
+        "veredict": null
+    },
+    "id_075.jpg": {
+        "og_filename": "tif_1_mosaico_0030_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.7169,
+        "veredict": null
+    },
+    "id_076.jpg": {
+        "og_filename": "tif_1_mosaico_0044_0038.png",
+        "class": "domestic garbage",
+        "confidence": 0.3774,
+        "veredict": null
+    },
+    "id_077.jpg": {
+        "og_filename": "tif_9_mosaico_0025_0016.png",
+        "class": "construction waste",
+        "confidence": 0.3995,
+        "veredict": null
+    },
+    "id_078.jpg": {
+        "og_filename": "tif_6_mosaico_0054_0019.png",
+        "class": "construction waste",
+        "confidence": 0.4946,
+        "veredict": null
+    },
+    "id_079.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0021.png",
+        "class": "construction waste",
+        "confidence": 0.7668,
+        "veredict": null
+    },
+    "id_080.jpg": {
+        "og_filename": "tif_1_mosaico_0047_0029.png",
+        "class": "agriculture forestry",
+        "confidence": 0.639,
+        "veredict": null
+    },
+    "id_081.jpg": {
+        "og_filename": "tif_1_mosaico_0005_0010.png",
+        "class": "construction waste",
+        "confidence": 0.413,
+        "veredict": null
+    },
+    "id_082.jpg": {
+        "og_filename": "tif_1_mosaico_0005_0010.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3625,
+        "veredict": null
+    },
+    "id_083.jpg": {
+        "og_filename": "tif_1_mosaico_0058_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.5327,
+        "veredict": null
+    },
+    "id_084.jpg": {
+        "og_filename": "tif_1_mosaico_0058_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.4604,
+        "veredict": null
+    },
+    "id_085.jpg": {
+        "og_filename": "tif_1_mosaico_0030_0008.png",
+        "class": "domestic garbage",
+        "confidence": 0.4583,
+        "veredict": null
+    },
+    "id_086.jpg": {
+        "og_filename": "tif_3_mosaico_0034_0010.png",
+        "class": "construction waste",
+        "confidence": 0.3228,
+        "veredict": null
+    },
+    "id_087.jpg": {
+        "og_filename": "tif_6_mosaico_0049_0020.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4018,
+        "veredict": null
+    },
+    "id_088.jpg": {
+        "og_filename": "tif_1_mosaico_0042_0030.png",
+        "class": "domestic garbage",
+        "confidence": 0.4649,
+        "veredict": null
+    },
+    "id_089.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0010.png",
+        "class": "domestic garbage",
+        "confidence": 0.4378,
+        "veredict": null
+    },
+    "id_090.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0010.png",
+        "class": "domestic garbage",
+        "confidence": 0.3811,
+        "veredict": null
+    },
+    "id_091.jpg": {
+        "og_filename": "tif_3_mosaico_0028_0000.png",
+        "class": "construction waste",
+        "confidence": 0.4867,
+        "veredict": null
+    },
+    "id_092.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0017.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4304,
+        "veredict": null
+    },
+    "id_093.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0010.png",
+        "class": "domestic garbage",
+        "confidence": 0.377,
+        "veredict": null
+    },
+    "id_094.jpg": {
+        "og_filename": "tif_11_mosaico_0018_0023.png",
+        "class": "construction waste",
+        "confidence": 0.3561,
+        "veredict": null
+    },
+    "id_095.jpg": {
+        "og_filename": "tif_1_mosaico_0042_0007.png",
+        "class": "construction waste",
+        "confidence": 0.3709,
+        "veredict": null
+    },
+    "id_096.jpg": {
+        "og_filename": "tif_1_mosaico_0031_0026.png",
+        "class": "domestic garbage",
+        "confidence": 0.4345,
+        "veredict": null
+    },
+    "id_097.jpg": {
+        "og_filename": "tif_3_mosaico_0013_0003.png",
+        "class": "construction waste",
+        "confidence": 0.4685,
+        "veredict": null
+    },
+    "id_098.jpg": {
+        "og_filename": "tif_5_mosaico_0102_0032.png",
+        "class": "construction waste",
+        "confidence": 0.3832,
+        "veredict": null
+    },
+    "id_099.jpg": {
+        "og_filename": "tif_5_mosaico_0059_0039.png",
+        "class": "construction waste",
+        "confidence": 0.5939,
+        "veredict": null
+    },
+    "id_0100.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.7773,
+        "veredict": null
+    },
+    "id_101.jpg": {
+        "og_filename": "tif_1_mosaico_0013_0033.png",
+        "class": "construction waste",
+        "confidence": 0.4401,
+        "veredict": null
+    },
+    "id_102.jpg": {
+        "og_filename": "tif_1_mosaico_0013_0033.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3843,
+        "veredict": null
+    },
+    "id_103.jpg": {
+        "og_filename": "tif_1_mosaico_0004_0027.png",
+        "class": "domestic garbage",
+        "confidence": 0.6746,
+        "veredict": null
+    },
+    "id_104.jpg": {
+        "og_filename": "tif_1_mosaico_0004_0027.png",
+        "class": "domestic garbage",
+        "confidence": 0.6292,
+        "veredict": null
+    },
+    "id_105.jpg": {
+        "og_filename": "tif_1_mosaico_0004_0027.png",
+        "class": "domestic garbage",
+        "confidence": 0.5443,
+        "veredict": null
+    },
+    "id_106.jpg": {
+        "og_filename": "tif_1_mosaico_0004_0027.png",
+        "class": "construction waste",
+        "confidence": 0.3564,
+        "veredict": null
+    },
+    "id_107.jpg": {
+        "og_filename": "tif_1_mosaico_0057_0021.png",
+        "class": "domestic garbage",
+        "confidence": 0.3177,
+        "veredict": null
+    },
+    "id_108.jpg": {
+        "og_filename": "tif_1_mosaico_0057_0021.png",
+        "class": "construction waste",
+        "confidence": 0.3555,
+        "veredict": null
+    },
+    "id_109.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0018.png",
+        "class": "domestic garbage",
+        "confidence": 0.4682,
+        "veredict": null
+    },
+    "id_110.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0018.png",
+        "class": "construction waste",
+        "confidence": 0.6577,
+        "veredict": null
+    },
+    "id_111.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0016.png",
+        "class": "domestic garbage",
+        "confidence": 0.7496,
+        "veredict": null
+    },
+    "id_112.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0016.png",
+        "class": "domestic garbage",
+        "confidence": 0.3113,
+        "veredict": null
+    },
+    "id_113.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0018.png",
+        "class": "construction waste",
+        "confidence": 0.3435,
+        "veredict": null
+    },
+    "id_114.jpg": {
+        "og_filename": "tif_4_mosaico_0025_0008.png",
+        "class": "construction waste",
+        "confidence": 0.4858,
+        "veredict": null
+    },
+    "id_115.jpg": {
+        "og_filename": "tif_1_mosaico_0025_0021.png",
+        "class": "construction waste",
+        "confidence": 0.5369,
+        "veredict": null
+    },
+    "id_116.jpg": {
+        "og_filename": "tif_5_mosaico_0002_0029.png",
+        "class": "construction waste",
+        "confidence": 0.3387,
+        "veredict": null
+    },
+    "id_117.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.6612,
+        "veredict": null
+    },
+    "id_118.jpg": {
+        "og_filename": "tif_1_mosaico_0022_0016.png",
+        "class": "construction waste",
+        "confidence": 0.5622,
+        "veredict": null
+    },
+    "id_119.jpg": {
+        "og_filename": "tif_1_mosaico_0010_0026.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3061,
+        "veredict": null
+    },
+    "id_120.jpg": {
+        "og_filename": "tif_1_mosaico_0054_0014.png",
+        "class": "construction waste",
+        "confidence": 0.3384,
+        "veredict": null
+    },
+    "id_121.jpg": {
+        "og_filename": "tif_1_mosaico_0031_0040.png",
+        "class": "domestic garbage",
+        "confidence": 0.4731,
+        "veredict": null
+    },
+    "id_122.jpg": {
+        "og_filename": "tif_1_mosaico_0044_0034.png",
+        "class": "domestic garbage",
+        "confidence": 0.3444,
+        "veredict": null
+    },
+    "id_123.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.4562,
+        "veredict": null
+    },
+    "id_124.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0022.png",
+        "class": "domestic garbage",
+        "confidence": 0.4634,
+        "veredict": null
+    },
+    "id_125.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0022.png",
+        "class": "construction waste",
+        "confidence": 0.6076,
+        "veredict": null
+    },
+    "id_126.jpg": {
+        "og_filename": "tif_1_mosaico_0032_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.578,
+        "veredict": null
+    },
+    "id_127.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0032.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4415,
+        "veredict": null
+    },
+    "id_128.jpg": {
+        "og_filename": "tif_1_mosaico_0025_0017.png",
+        "class": "domestic garbage",
+        "confidence": 0.756,
+        "veredict": null
+    },
+    "id_129.jpg": {
+        "og_filename": "tif_1_mosaico_0025_0017.png",
+        "class": "construction waste",
+        "confidence": 0.348,
+        "veredict": null
+    },
+    "id_130.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0030.png",
+        "class": "domestic garbage",
+        "confidence": 0.723,
+        "veredict": null
+    },
+    "id_131.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0030.png",
+        "class": "construction waste",
+        "confidence": 0.3044,
+        "veredict": null
+    },
+    "id_132.jpg": {
+        "og_filename": "tif_3_mosaico_0020_0002.png",
+        "class": "construction waste",
+        "confidence": 0.4714,
+        "veredict": null
+    },
+    "id_133.jpg": {
+        "og_filename": "tif_1_mosaico_0066_0000.png",
+        "class": "construction waste",
+        "confidence": 0.5628,
+        "veredict": null
+    },
+    "id_134.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0010.png",
+        "class": "domestic garbage",
+        "confidence": 0.314,
+        "veredict": null
+    },
+    "id_135.jpg": {
+        "og_filename": "tif_1_mosaico_0041_0017.png",
+        "class": "domestic garbage",
+        "confidence": 0.4481,
+        "veredict": null
+    },
+    "id_136.jpg": {
+        "og_filename": "tif_1_mosaico_0041_0017.png",
+        "class": "construction waste",
+        "confidence": 0.5975,
+        "veredict": null
+    },
+    "id_137.jpg": {
+        "og_filename": "tif_1_mosaico_0055_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.4615,
+        "veredict": null
+    },
+    "id_138.jpg": {
+        "og_filename": "tif_10_mosaico_0019_0020.png",
+        "class": "construction waste",
+        "confidence": 0.356,
+        "veredict": null
+    },
+    "id_139.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0011.png",
+        "class": "domestic garbage",
+        "confidence": 0.5066,
+        "veredict": null
+    },
+    "id_140.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0011.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3776,
+        "veredict": null
+    },
+    "id_141.jpg": {
+        "og_filename": "tif_1_mosaico_0045_0032.png",
+        "class": "domestic garbage",
+        "confidence": 0.5156,
+        "veredict": null
+    },
+    "id_142.jpg": {
+        "og_filename": "tif_1_mosaico_0003_0033.png",
+        "class": "domestic garbage",
+        "confidence": 0.7012,
+        "veredict": null
+    },
+    "id_143.jpg": {
+        "og_filename": "tif_1_mosaico_0060_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.739,
+        "veredict": null
+    },
+    "id_144.jpg": {
+        "og_filename": "tif_1_mosaico_0060_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.3813,
+        "veredict": null
+    },
+    "id_145.jpg": {
+        "og_filename": "tif_1_mosaico_0038_0003.png",
+        "class": "construction waste",
+        "confidence": 0.6859,
+        "veredict": null
+    },
+    "id_146.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0035.png",
+        "class": "domestic garbage",
+        "confidence": 0.3299,
+        "veredict": null
+    },
+    "id_147.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0035.png",
+        "class": "construction waste",
+        "confidence": 0.3104,
+        "veredict": null
+    },
+    "id_148.jpg": {
+        "og_filename": "tif_1_mosaico_0036_0013.png",
+        "class": "construction waste",
+        "confidence": 0.3735,
+        "veredict": null
+    },
+    "id_149.jpg": {
+        "og_filename": "tif_1_mosaico_0035_0001.png",
+        "class": "domestic garbage",
+        "confidence": 0.5137,
+        "veredict": null
+    },
+    "id_150.jpg": {
+        "og_filename": "tif_1_mosaico_0006_0026.png",
+        "class": "domestic garbage",
+        "confidence": 0.3901,
+        "veredict": null
+    },
+    "id_151.jpg": {
+        "og_filename": "tif_5_mosaico_0008_0027.png",
+        "class": "construction waste",
+        "confidence": 0.552,
+        "veredict": null
+    },
+    "id_152.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0017.png",
+        "class": "domestic garbage",
+        "confidence": 0.6573,
+        "veredict": null
+    },
+    "id_153.jpg": {
+        "og_filename": "tif_9_mosaico_0012_0013.png",
+        "class": "construction waste",
+        "confidence": 0.4756,
+        "veredict": null
+    },
+    "id_154.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.4519,
+        "veredict": null
+    },
+    "id_155.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.662,
+        "veredict": null
+    },
+    "id_156.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.3295,
+        "veredict": null
+    },
+    "id_157.jpg": {
+        "og_filename": "tif_1_mosaico_0016_0042.png",
+        "class": "domestic garbage",
+        "confidence": 0.4519,
+        "veredict": null
+    },
+    "id_158.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0008.png",
+        "class": "domestic garbage",
+        "confidence": 0.5677,
+        "veredict": null
+    },
+    "id_159.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0008.png",
+        "class": "construction waste",
+        "confidence": 0.5097,
+        "veredict": null
+    },
+    "id_160.jpg": {
+        "og_filename": "tif_1_mosaico_0044_0047.png",
+        "class": "domestic garbage",
+        "confidence": 0.8398,
+        "veredict": null
+    },
+    "id_161.jpg": {
+        "og_filename": "tif_11_mosaico_0016_0014.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3853,
+        "veredict": null
+    },
+    "id_162.jpg": {
+        "og_filename": "tif_1_mosaico_0044_0015.png",
+        "class": "construction waste",
+        "confidence": 0.4671,
+        "veredict": null
+    },
+    "id_163.jpg": {
+        "og_filename": "tif_1_mosaico_0025_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.4309,
+        "veredict": null
+    },
+    "id_164.jpg": {
+        "og_filename": "tif_1_mosaico_0025_0015.png",
+        "class": "construction waste",
+        "confidence": 0.5145,
+        "veredict": null
+    },
+    "id_165.jpg": {
+        "og_filename": "tif_1_mosaico_0064_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.3748,
+        "veredict": null
+    },
+    "id_166.jpg": {
+        "og_filename": "tif_1_mosaico_0046_0006.png",
+        "class": "domestic garbage",
+        "confidence": 0.5101,
+        "veredict": null
+    },
+    "id_167.jpg": {
+        "og_filename": "tif_1_mosaico_0046_0033.png",
+        "class": "domestic garbage",
+        "confidence": 0.3074,
+        "veredict": null
+    },
+    "id_168.jpg": {
+        "og_filename": "tif_1_mosaico_0046_0033.png",
+        "class": "construction waste",
+        "confidence": 0.362,
+        "veredict": null
+    },
+    "id_169.jpg": {
+        "og_filename": "tif_1_mosaico_0036_0020.png",
+        "class": "construction waste",
+        "confidence": 0.5758,
+        "veredict": null
+    },
+    "id_170.jpg": {
+        "og_filename": "tif_1_mosaico_0007_0032.png",
+        "class": "domestic garbage",
+        "confidence": 0.3159,
+        "veredict": null
+    },
+    "id_171.jpg": {
+        "og_filename": "tif_2_mosaico_0034_0004.png",
+        "class": "construction waste",
+        "confidence": 0.344,
+        "veredict": null
+    },
+    "id_172.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.806,
+        "veredict": null
+    },
+    "id_173.jpg": {
+        "og_filename": "tif_1_mosaico_0003_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.5776,
+        "veredict": null
+    },
+    "id_174.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0020.png",
+        "class": "domestic garbage",
+        "confidence": 0.6759,
+        "veredict": null
+    },
+    "id_175.jpg": {
+        "og_filename": "tif_1_mosaico_0012_0029.png",
+        "class": "domestic garbage",
+        "confidence": 0.8389,
+        "veredict": null
+    },
+    "id_176.jpg": {
+        "og_filename": "tif_1_mosaico_0043_0002.png",
+        "class": "domestic garbage",
+        "confidence": 0.4571,
+        "veredict": null
+    },
+    "id_177.jpg": {
+        "og_filename": "tif_1_mosaico_0043_0002.png",
+        "class": "construction waste",
+        "confidence": 0.3811,
+        "veredict": null
+    },
+    "id_178.jpg": {
+        "og_filename": "tif_1_mosaico_0043_0045.png",
+        "class": "domestic garbage",
+        "confidence": 0.6609,
+        "veredict": null
+    },
+    "id_179.jpg": {
+        "og_filename": "tif_1_mosaico_0014_0011.png",
+        "class": "construction waste",
+        "confidence": 0.6726,
+        "veredict": null
+    },
+    "id_180.jpg": {
+        "og_filename": "tif_3_mosaico_0030_0026.png",
+        "class": "construction waste",
+        "confidence": 0.3457,
+        "veredict": null
+    },
+    "id_181.jpg": {
+        "og_filename": "tif_1_mosaico_0038_0008.png",
+        "class": "domestic garbage",
+        "confidence": 0.728,
+        "veredict": null
+    },
+    "id_182.jpg": {
+        "og_filename": "tif_1_mosaico_0038_0008.png",
+        "class": "construction waste",
+        "confidence": 0.3268,
+        "veredict": null
+    },
+    "id_183.jpg": {
+        "og_filename": "tif_3_mosaico_0035_0014.png",
+        "class": "construction waste",
+        "confidence": 0.3172,
+        "veredict": null
+    },
+    "id_184.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.3965,
+        "veredict": null
+    },
+    "id_185.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.3205,
+        "veredict": null
+    },
+    "id_186.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.3093,
+        "veredict": null
+    },
+    "id_187.jpg": {
+        "og_filename": "tif_1_mosaico_0041_0001.png",
+        "class": "domestic garbage",
+        "confidence": 0.8953,
+        "veredict": null
+    },
+    "id_188.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.4366,
+        "veredict": null
+    },
+    "id_189.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0031.png",
+        "class": "construction waste",
+        "confidence": 0.4039,
+        "veredict": null
+    },
+    "id_190.jpg": {
+        "og_filename": "tif_1_mosaico_0012_0038.png",
+        "class": "domestic garbage",
+        "confidence": 0.4064,
+        "veredict": null
+    },
+    "id_191.jpg": {
+        "og_filename": "tif_1_mosaico_0012_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.8122,
+        "veredict": null
+    },
+    "id_192.jpg": {
+        "og_filename": "tif_1_mosaico_0029_0002.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4504,
+        "veredict": null
+    },
+    "id_193.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0037.png",
+        "class": "domestic garbage",
+        "confidence": 0.304,
+        "veredict": null
+    },
+    "id_194.jpg": {
+        "og_filename": "tif_1_mosaico_0043_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.5219,
+        "veredict": null
+    },
+    "id_195.jpg": {
+        "og_filename": "tif_8_mosaico_0016_0008.png",
+        "class": "construction waste",
+        "confidence": 0.8324,
+        "veredict": null
+    },
+    "id_196.jpg": {
+        "og_filename": "tif_4_mosaico_0025_0011.png",
+        "class": "construction waste",
+        "confidence": 0.3235,
+        "veredict": null
+    },
+    "id_197.jpg": {
+        "og_filename": "tif_1_mosaico_0011_0023.png",
+        "class": "domestic garbage",
+        "confidence": 0.6205,
+        "veredict": null
+    },
+    "id_198.jpg": {
+        "og_filename": "tif_1_mosaico_0037_0017.png",
+        "class": "construction waste",
+        "confidence": 0.7484,
+        "veredict": null
+    },
+    "id_199.jpg": {
+        "og_filename": "tif_1_mosaico_0037_0017.png",
+        "class": "construction waste",
+        "confidence": 0.3982,
+        "veredict": null
+    },
+    "id_200.jpg": {
+        "og_filename": "tif_6_mosaico_0053_0026.png",
+        "class": "domestic garbage",
+        "confidence": 0.5509,
+        "veredict": null
+    },
+    "id_201.jpg": {
+        "og_filename": "tif_6_mosaico_0053_0026.png",
+        "class": "construction waste",
+        "confidence": 0.8182,
+        "veredict": null
+    },
+    "id_202.jpg": {
+        "og_filename": "tif_6_mosaico_0053_0026.png",
+        "class": "construction waste",
+        "confidence": 0.4176,
+        "veredict": null
+    },
+    "id_203.jpg": {
+        "og_filename": "tif_1_mosaico_0040_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.5564,
+        "veredict": null
+    },
+    "id_204.jpg": {
+        "og_filename": "tif_1_mosaico_0040_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.4726,
+        "veredict": null
+    },
+    "id_205.jpg": {
+        "og_filename": "tif_1_mosaico_0022_0037.png",
+        "class": "domestic garbage",
+        "confidence": 0.8515,
+        "veredict": null
+    },
+    "id_206.jpg": {
+        "og_filename": "tif_11_mosaico_0034_0007.png",
+        "class": "construction waste",
+        "confidence": 0.3662,
+        "veredict": null
+    },
+    "id_207.jpg": {
+        "og_filename": "tif_1_mosaico_0054_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.9479,
+        "veredict": null
+    },
+    "id_208.jpg": {
+        "og_filename": "tif_1_mosaico_0054_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.4899,
+        "veredict": null
+    },
+    "id_209.jpg": {
+        "og_filename": "tif_1_mosaico_0030_0007.png",
+        "class": "construction waste",
+        "confidence": 0.503,
+        "veredict": null
+    },
+    "id_210.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0008.png",
+        "class": "domestic garbage",
+        "confidence": 0.5156,
+        "veredict": null
+    },
+    "id_211.jpg": {
+        "og_filename": "tif_13_mosaico_0019_0004.png",
+        "class": "construction waste",
+        "confidence": 0.3548,
+        "veredict": null
+    },
+    "id_212.jpg": {
+        "og_filename": "tif_6_mosaico_0019_0025.png",
+        "class": "construction waste",
+        "confidence": 0.3646,
+        "veredict": null
+    },
+    "id_213.jpg": {
+        "og_filename": "tif_1_mosaico_0006_0031.png",
+        "class": "construction waste",
+        "confidence": 0.3099,
+        "veredict": null
+    },
+    "id_214.jpg": {
+        "og_filename": "tif_1_mosaico_0050_0013.png",
+        "class": "construction waste",
+        "confidence": 0.3801,
+        "veredict": null
+    },
+    "id_215.jpg": {
+        "og_filename": "tif_1_mosaico_0008_0012.png",
+        "class": "domestic garbage",
+        "confidence": 0.5872,
+        "veredict": null
+    },
+    "id_216.jpg": {
+        "og_filename": "tif_1_mosaico_0042_0021.png",
+        "class": "domestic garbage",
+        "confidence": 0.505,
+        "veredict": null
+    },
+    "id_217.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0006.png",
+        "class": "domestic garbage",
+        "confidence": 0.9026,
+        "veredict": null
+    },
+    "id_218.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0024.png",
+        "class": "construction waste",
+        "confidence": 0.8179,
+        "veredict": null
+    },
+    "id_219.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0024.png",
+        "class": "construction waste",
+        "confidence": 0.3983,
+        "veredict": null
+    },
+    "id_220.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.3521,
+        "veredict": null
+    },
+    "id_221.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0017.png",
+        "class": "domestic garbage",
+        "confidence": 0.3756,
+        "veredict": null
+    },
+    "id_222.jpg": {
+        "og_filename": "tif_1_mosaico_0004_0038.png",
+        "class": "domestic garbage",
+        "confidence": 0.4582,
+        "veredict": null
+    },
+    "id_223.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0011.png",
+        "class": "domestic garbage",
+        "confidence": 0.3107,
+        "veredict": null
+    },
+    "id_224.jpg": {
+        "og_filename": "tif_1_mosaico_0022_0023.png",
+        "class": "domestic garbage",
+        "confidence": 0.4696,
+        "veredict": null
+    },
+    "id_225.jpg": {
+        "og_filename": "tif_1_mosaico_0042_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.4068,
+        "veredict": null
+    },
+    "id_226.jpg": {
+        "og_filename": "tif_1_mosaico_0008_0025.png",
+        "class": "domestic garbage",
+        "confidence": 0.848,
+        "veredict": null
+    },
+    "id_227.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0023.png",
+        "class": "domestic garbage",
+        "confidence": 0.6568,
+        "veredict": null
+    },
+    "id_228.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0023.png",
+        "class": "agriculture forestry",
+        "confidence": 0.7259,
+        "veredict": null
+    },
+    "id_229.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0030.png",
+        "class": "domestic garbage",
+        "confidence": 0.5772,
+        "veredict": null
+    },
+    "id_230.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0028.png",
+        "class": "domestic garbage",
+        "confidence": 0.4003,
+        "veredict": null
+    },
+    "id_231.jpg": {
+        "og_filename": "tif_1_mosaico_0054_0032.png",
+        "class": "domestic garbage",
+        "confidence": 0.412,
+        "veredict": null
+    },
+    "id_232.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0024.png",
+        "class": "agriculture forestry",
+        "confidence": 0.5932,
+        "veredict": null
+    },
+    "id_233.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0030.png",
+        "class": "agriculture forestry",
+        "confidence": 0.463,
+        "veredict": null
+    },
+    "id_234.jpg": {
+        "og_filename": "tif_1_mosaico_0056_0001.png",
+        "class": "domestic garbage",
+        "confidence": 0.4148,
+        "veredict": null
+    },
+    "id_235.jpg": {
+        "og_filename": "tif_1_mosaico_0064_0012.png",
+        "class": "domestic garbage",
+        "confidence": 0.6713,
+        "veredict": null
+    },
+    "id_236.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.4475,
+        "veredict": null
+    },
+    "id_237.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0019.png",
+        "class": "construction waste",
+        "confidence": 0.3384,
+        "veredict": null
+    },
+    "id_238.jpg": {
+        "og_filename": "tif_1_mosaico_0013_0039.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3931,
+        "veredict": null
+    },
+    "id_239.jpg": {
+        "og_filename": "tif_1_mosaico_0038_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.3349,
+        "veredict": null
+    },
+    "id_240.jpg": {
+        "og_filename": "tif_1_mosaico_0038_0031.png",
+        "class": "agriculture forestry",
+        "confidence": 0.6026,
+        "veredict": null
+    },
+    "id_241.jpg": {
+        "og_filename": "tif_2_mosaico_0025_0022.png",
+        "class": "construction waste",
+        "confidence": 0.3622,
+        "veredict": null
+    },
+    "id_242.jpg": {
+        "og_filename": "tif_3_mosaico_0023_0018.png",
+        "class": "domestic garbage",
+        "confidence": 0.4863,
+        "veredict": null
+    },
+    "id_243.jpg": {
+        "og_filename": "tif_1_mosaico_0016_0034.png",
+        "class": "domestic garbage",
+        "confidence": 0.3483,
+        "veredict": null
+    },
+    "id_244.jpg": {
+        "og_filename": "tif_6_mosaico_0040_0026.png",
+        "class": "construction waste",
+        "confidence": 0.5458,
+        "veredict": null
+    },
+    "id_245.jpg": {
+        "og_filename": "tif_1_mosaico_0016_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.7633,
+        "veredict": null
+    },
+    "id_246.jpg": {
+        "og_filename": "tif_1_mosaico_0016_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.3327,
+        "veredict": null
+    },
+    "id_247.jpg": {
+        "og_filename": "tif_1_mosaico_0023_0039.png",
+        "class": "domestic garbage",
+        "confidence": 0.87,
+        "veredict": null
+    },
+    "id_248.jpg": {
+        "og_filename": "tif_6_mosaico_0054_0026.png",
+        "class": "construction waste",
+        "confidence": 0.4628,
+        "veredict": null
+    },
+    "id_249.jpg": {
+        "og_filename": "tif_1_mosaico_0048_0017.png",
+        "class": "domestic garbage",
+        "confidence": 0.6942,
+        "veredict": null
+    },
+    "id_250.jpg": {
+        "og_filename": "tif_5_mosaico_0084_0030.png",
+        "class": "construction waste",
+        "confidence": 0.3058,
+        "veredict": null
+    },
+    "id_251.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0017.png",
+        "class": "domestic garbage",
+        "confidence": 0.4726,
+        "veredict": null
+    },
+    "id_252.jpg": {
+        "og_filename": "tif_6_mosaico_0033_0012.png",
+        "class": "construction waste",
+        "confidence": 0.3261,
+        "veredict": null
+    },
+    "id_253.jpg": {
+        "og_filename": "tif_1_mosaico_0020_0044.png",
+        "class": "domestic garbage",
+        "confidence": 0.4291,
+        "veredict": null
+    },
+    "id_254.jpg": {
+        "og_filename": "tif_1_mosaico_0020_0044.png",
+        "class": "domestic garbage",
+        "confidence": 0.3255,
+        "veredict": null
+    },
+    "id_255.jpg": {
+        "og_filename": "tif_1_mosaico_0026_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.8874,
+        "veredict": null
+    },
+    "id_256.jpg": {
+        "og_filename": "tif_1_mosaico_0023_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.7463,
+        "veredict": null
+    },
+    "id_257.jpg": {
+        "og_filename": "tif_1_mosaico_0023_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.7283,
+        "veredict": null
+    },
+    "id_258.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0032.png",
+        "class": "domestic garbage",
+        "confidence": 0.3206,
+        "veredict": null
+    },
+    "id_259.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0032.png",
+        "class": "construction waste",
+        "confidence": 0.3343,
+        "veredict": null
+    },
+    "id_260.jpg": {
+        "og_filename": "tif_7_mosaico_0022_0006.png",
+        "class": "construction waste",
+        "confidence": 0.6038,
+        "veredict": null
+    },
+    "id_261.jpg": {
+        "og_filename": "tif_1_mosaico_0014_0009.png",
+        "class": "domestic garbage",
+        "confidence": 0.3575,
+        "veredict": null
+    },
+    "id_262.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0007.png",
+        "class": "construction waste",
+        "confidence": 0.8941,
+        "veredict": null
+    },
+    "id_263.jpg": {
+        "og_filename": "tif_2_mosaico_0037_0019.png",
+        "class": "construction waste",
+        "confidence": 0.4193,
+        "veredict": null
+    },
+    "id_264.jpg": {
+        "og_filename": "tif_1_mosaico_0010_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.5062,
+        "veredict": null
+    },
+    "id_265.jpg": {
+        "og_filename": "tif_5_mosaico_0094_0031.png",
+        "class": "construction waste",
+        "confidence": 0.3933,
+        "veredict": null
+    },
+    "id_266.jpg": {
+        "og_filename": "tif_1_mosaico_0031_0012.png",
+        "class": "domestic garbage",
+        "confidence": 0.5499,
+        "veredict": null
+    },
+    "id_267.jpg": {
+        "og_filename": "tif_1_mosaico_0027_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.6379,
+        "veredict": null
+    },
+    "id_268.jpg": {
+        "og_filename": "tif_11_mosaico_0014_0018.png",
+        "class": "construction waste",
+        "confidence": 0.3146,
+        "veredict": null
+    },
+    "id_269.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.63,
+        "veredict": null
+    },
+    "id_270.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.4395,
+        "veredict": null
+    },
+    "id_271.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0019.png",
+        "class": "construction waste",
+        "confidence": 0.305,
+        "veredict": null
+    },
+    "id_272.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0013.png",
+        "class": "domestic garbage",
+        "confidence": 0.7275,
+        "veredict": null
+    },
+    "id_273.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0013.png",
+        "class": "domestic garbage",
+        "confidence": 0.4016,
+        "veredict": null
+    },
+    "id_274.jpg": {
+        "og_filename": "tif_1_mosaico_0023_0022.png",
+        "class": "domestic garbage",
+        "confidence": 0.6095,
+        "veredict": null
+    },
+    "id_275.jpg": {
+        "og_filename": "tif_5_mosaico_0085_0014.png",
+        "class": "construction waste",
+        "confidence": 0.7447,
+        "veredict": null
+    },
+    "id_276.jpg": {
+        "og_filename": "tif_1_mosaico_0014_0010.png",
+        "class": "construction waste",
+        "confidence": 0.4794,
+        "veredict": null
+    },
+    "id_277.jpg": {
+        "og_filename": "tif_1_mosaico_0034_0013.png",
+        "class": "construction waste",
+        "confidence": 0.3811,
+        "veredict": null
+    },
+    "id_278.jpg": {
+        "og_filename": "tif_1_mosaico_0016_0045.png",
+        "class": "domestic garbage",
+        "confidence": 0.3262,
+        "veredict": null
+    },
+    "id_279.jpg": {
+        "og_filename": "tif_1_mosaico_0047_0021.png",
+        "class": "domestic garbage",
+        "confidence": 0.4889,
+        "veredict": null
+    },
+    "id_280.jpg": {
+        "og_filename": "tif_1_mosaico_0045_0030.png",
+        "class": "construction waste",
+        "confidence": 0.6958,
+        "veredict": null
+    },
+    "id_281.jpg": {
+        "og_filename": "tif_3_mosaico_0016_0026.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3357,
+        "veredict": null
+    },
+    "id_282.jpg": {
+        "og_filename": "tif_1_mosaico_0042_0016.png",
+        "class": "domestic garbage",
+        "confidence": 0.5495,
+        "veredict": null
+    },
+    "id_283.jpg": {
+        "og_filename": "tif_3_mosaico_0015_0003.png",
+        "class": "construction waste",
+        "confidence": 0.3141,
+        "veredict": null
+    },
+    "id_284.jpg": {
+        "og_filename": "tif_9_mosaico_0005_0023.png",
+        "class": "construction waste",
+        "confidence": 0.4701,
+        "veredict": null
+    },
+    "id_285.jpg": {
+        "og_filename": "tif_13_mosaico_0026_0008.png",
+        "class": "construction waste",
+        "confidence": 0.457,
+        "veredict": null
+    },
+    "id_286.jpg": {
+        "og_filename": "tif_1_mosaico_0029_0028.png",
+        "class": "domestic garbage",
+        "confidence": 0.3437,
+        "veredict": null
+    },
+    "id_287.jpg": {
+        "og_filename": "tif_1_mosaico_0029_0028.png",
+        "class": "construction waste",
+        "confidence": 0.6842,
+        "veredict": null
+    },
+    "id_288.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0033.png",
+        "class": "domestic garbage",
+        "confidence": 0.3392,
+        "veredict": null
+    },
+    "id_289.jpg": {
+        "og_filename": "tif_1_mosaico_0047_0020.png",
+        "class": "domestic garbage",
+        "confidence": 0.4064,
+        "veredict": null
+    },
+    "id_290.jpg": {
+        "og_filename": "tif_1_mosaico_0067_0006.png",
+        "class": "domestic garbage",
+        "confidence": 0.3561,
+        "veredict": null
+    },
+    "id_291.jpg": {
+        "og_filename": "tif_1_mosaico_0014_0022.png",
+        "class": "construction waste",
+        "confidence": 0.6273,
+        "veredict": null
+    },
+    "id_292.jpg": {
+        "og_filename": "tif_3_mosaico_0002_0014.png",
+        "class": "construction waste",
+        "confidence": 0.3938,
+        "veredict": null
+    },
+    "id_293.jpg": {
+        "og_filename": "tif_3_mosaico_0002_0014.png",
+        "class": "construction waste",
+        "confidence": 0.367,
+        "veredict": null
+    },
+    "id_294.jpg": {
+        "og_filename": "tif_1_mosaico_0004_0028.png",
+        "class": "domestic garbage",
+        "confidence": 0.5433,
+        "veredict": null
+    },
+    "id_295.jpg": {
+        "og_filename": "tif_1_mosaico_0004_0028.png",
+        "class": "construction waste",
+        "confidence": 0.8819,
+        "veredict": null
+    },
+    "id_296.jpg": {
+        "og_filename": "tif_1_mosaico_0047_0033.png",
+        "class": "domestic garbage",
+        "confidence": 0.3026,
+        "veredict": null
+    },
+    "id_297.jpg": {
+        "og_filename": "tif_1_mosaico_0046_0020.png",
+        "class": "domestic garbage",
+        "confidence": 0.4734,
+        "veredict": null
+    },
+    "id_298.jpg": {
+        "og_filename": "tif_7_mosaico_0019_0002.png",
+        "class": "construction waste",
+        "confidence": 0.6499,
+        "veredict": null
+    },
+    "id_299.jpg": {
+        "og_filename": "tif_1_mosaico_0056_0029.png",
+        "class": "domestic garbage",
+        "confidence": 0.5397,
+        "veredict": null
+    },
+    "id_300.jpg": {
+        "og_filename": "tif_3_mosaico_0027_0006.png",
+        "class": "construction waste",
+        "confidence": 0.3305,
+        "veredict": null
+    },
+    "id_301.jpg": {
+        "og_filename": "tif_1_mosaico_0051_0024.png",
+        "class": "domestic garbage",
+        "confidence": 0.3088,
+        "veredict": null
+    },
+    "id_302.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.6826,
+        "veredict": null
+    },
+    "id_303.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0019.png",
+        "class": "construction waste",
+        "confidence": 0.6219,
+        "veredict": null
+    },
+    "id_304.jpg": {
+        "og_filename": "tif_1_mosaico_0032_0037.png",
+        "class": "domestic garbage",
+        "confidence": 0.3819,
+        "veredict": null
+    },
+    "id_305.jpg": {
+        "og_filename": "tif_9_mosaico_0012_0014.png",
+        "class": "construction waste",
+        "confidence": 0.3813,
+        "veredict": null
+    },
+    "id_306.jpg": {
+        "og_filename": "tif_1_mosaico_0036_0021.png",
+        "class": "construction waste",
+        "confidence": 0.8991,
+        "veredict": null
+    },
+    "id_307.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0014.png",
+        "class": "construction waste",
+        "confidence": 0.7586,
+        "veredict": null
+    },
+    "id_308.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0014.png",
+        "class": "construction waste",
+        "confidence": 0.3074,
+        "veredict": null
+    },
+    "id_309.jpg": {
+        "og_filename": "tif_1_mosaico_0050_0018.png",
+        "class": "construction waste",
+        "confidence": 0.8422,
+        "veredict": null
+    },
+    "id_310.jpg": {
+        "og_filename": "tif_1_mosaico_0050_0018.png",
+        "class": "construction waste",
+        "confidence": 0.3516,
+        "veredict": null
+    },
+    "id_311.jpg": {
+        "og_filename": "tif_13_mosaico_0026_0004.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3354,
+        "veredict": null
+    },
+    "id_312.jpg": {
+        "og_filename": "tif_3_mosaico_0019_0027.png",
+        "class": "domestic garbage",
+        "confidence": 0.3073,
+        "veredict": null
+    },
+    "id_313.jpg": {
+        "og_filename": "tif_1_mosaico_0058_0005.png",
+        "class": "domestic garbage",
+        "confidence": 0.6889,
+        "veredict": null
+    },
+    "id_314.jpg": {
+        "og_filename": "tif_3_mosaico_0026_0027.png",
+        "class": "construction waste",
+        "confidence": 0.4408,
+        "veredict": null
+    },
+    "id_315.jpg": {
+        "og_filename": "tif_1_mosaico_0004_0031.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3191,
+        "veredict": null
+    },
+    "id_316.jpg": {
+        "og_filename": "tif_6_mosaico_0041_0023.png",
+        "class": "construction waste",
+        "confidence": 0.3825,
+        "veredict": null
+    },
+    "id_317.jpg": {
+        "og_filename": "tif_1_mosaico_0051_0006.png",
+        "class": "domestic garbage",
+        "confidence": 0.832,
+        "veredict": null
+    },
+    "id_318.jpg": {
+        "og_filename": "tif_8_mosaico_0017_0011.png",
+        "class": "construction waste",
+        "confidence": 0.3007,
+        "veredict": null
+    },
+    "id_319.jpg": {
+        "og_filename": "tif_6_mosaico_0049_0023.png",
+        "class": "construction waste",
+        "confidence": 0.7087,
+        "veredict": null
+    },
+    "id_320.jpg": {
+        "og_filename": "tif_6_mosaico_0049_0023.png",
+        "class": "construction waste",
+        "confidence": 0.5079,
+        "veredict": null
+    },
+    "id_321.jpg": {
+        "og_filename": "tif_3_mosaico_0020_0019.png",
+        "class": "construction waste",
+        "confidence": 0.4274,
+        "veredict": null
+    },
+    "id_322.jpg": {
+        "og_filename": "tif_6_mosaico_0029_0014.png",
+        "class": "construction waste",
+        "confidence": 0.3246,
+        "veredict": null
+    },
+    "id_323.jpg": {
+        "og_filename": "tif_1_mosaico_0044_0005.png",
+        "class": "domestic garbage",
+        "confidence": 0.5488,
+        "veredict": null
+    },
+    "id_324.jpg": {
+        "og_filename": "tif_1_mosaico_0030_0019.png",
+        "class": "domestic garbage",
+        "confidence": 0.5087,
+        "veredict": null
+    },
+    "id_325.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0030.png",
+        "class": "domestic garbage",
+        "confidence": 0.4734,
+        "veredict": null
+    },
+    "id_326.jpg": {
+        "og_filename": "tif_1_mosaico_0045_0014.png",
+        "class": "domestic garbage",
+        "confidence": 0.3699,
+        "veredict": null
+    },
+    "id_327.jpg": {
+        "og_filename": "tif_1_mosaico_0012_0041.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3131,
+        "veredict": null
+    },
+    "id_328.jpg": {
+        "og_filename": "tif_3_mosaico_0019_0002.png",
+        "class": "construction waste",
+        "confidence": 0.6417,
+        "veredict": null
+    },
+    "id_329.jpg": {
+        "og_filename": "tif_1_mosaico_0055_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.8163,
+        "veredict": null
+    },
+    "id_330.jpg": {
+        "og_filename": "tif_1_mosaico_0054_0023.png",
+        "class": "domestic garbage",
+        "confidence": 0.7441,
+        "veredict": null
+    },
+    "id_331.jpg": {
+        "og_filename": "tif_1_mosaico_0029_0041.png",
+        "class": "domestic garbage",
+        "confidence": 0.3936,
+        "veredict": null
+    },
+    "id_332.jpg": {
+        "og_filename": "tif_1_mosaico_0029_0041.png",
+        "class": "construction waste",
+        "confidence": 0.3418,
+        "veredict": null
+    },
+    "id_333.jpg": {
+        "og_filename": "tif_1_mosaico_0008_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.7727,
+        "veredict": null
+    },
+    "id_334.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0041.png",
+        "class": "domestic garbage",
+        "confidence": 0.5658,
+        "veredict": null
+    },
+    "id_335.jpg": {
+        "og_filename": "tif_1_mosaico_0032_0040.png",
+        "class": "domestic garbage",
+        "confidence": 0.466,
+        "veredict": null
+    },
+    "id_336.jpg": {
+        "og_filename": "tif_1_mosaico_0020_0016.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4416,
+        "veredict": null
+    },
+    "id_337.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0005.png",
+        "class": "domestic garbage",
+        "confidence": 0.7639,
+        "veredict": null
+    },
+    "id_338.jpg": {
+        "og_filename": "tif_1_mosaico_0065_0028.png",
+        "class": "domestic garbage",
+        "confidence": 0.3972,
+        "veredict": null
+    },
+    "id_339.jpg": {
+        "og_filename": "tif_1_mosaico_0060_0023.png",
+        "class": "domestic garbage",
+        "confidence": 0.7862,
+        "veredict": null
+    },
+    "id_340.jpg": {
+        "og_filename": "tif_1_mosaico_0059_0001.png",
+        "class": "domestic garbage",
+        "confidence": 0.3691,
+        "veredict": null
+    },
+    "id_341.jpg": {
+        "og_filename": "tif_1_mosaico_0059_0001.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3563,
+        "veredict": null
+    },
+    "id_342.jpg": {
+        "og_filename": "tif_6_mosaico_0034_0006.png",
+        "class": "construction waste",
+        "confidence": 0.44,
+        "veredict": null
+    },
+    "id_343.jpg": {
+        "og_filename": "tif_1_mosaico_0026_0038.png",
+        "class": "domestic garbage",
+        "confidence": 0.3687,
+        "veredict": null
+    },
+    "id_344.jpg": {
+        "og_filename": "tif_1_mosaico_0046_0016.png",
+        "class": "domestic garbage",
+        "confidence": 0.8107,
+        "veredict": null
+    },
+    "id_345.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.5245,
+        "veredict": null
+    },
+    "id_346.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0015.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3197,
+        "veredict": null
+    },
+    "id_347.jpg": {
+        "og_filename": "tif_5_mosaico_0000_0043.png",
+        "class": "construction waste",
+        "confidence": 0.404,
+        "veredict": null
+    },
+    "id_348.jpg": {
+        "og_filename": "tif_1_mosaico_0041_0016.png",
+        "class": "domestic garbage",
+        "confidence": 0.5113,
+        "veredict": null
+    },
+    "id_349.jpg": {
+        "og_filename": "tif_3_mosaico_0006_0006.png",
+        "class": "construction waste",
+        "confidence": 0.3431,
+        "veredict": null
+    },
+    "id_350.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0011.png",
+        "class": "domestic garbage",
+        "confidence": 0.3022,
+        "veredict": null
+    },
+    "id_351.jpg": {
+        "og_filename": "tif_5_mosaico_0110_0015.png",
+        "class": "construction waste",
+        "confidence": 0.3771,
+        "veredict": null
+    },
+    "id_352.jpg": {
+        "og_filename": "tif_1_mosaico_0027_0012.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4668,
+        "veredict": null
+    },
+    "id_353.jpg": {
+        "og_filename": "tif_1_mosaico_0043_0038.png",
+        "class": "domestic garbage",
+        "confidence": 0.6001,
+        "veredict": null
+    },
+    "id_354.jpg": {
+        "og_filename": "tif_1_mosaico_0038_0000.png",
+        "class": "domestic garbage",
+        "confidence": 0.9112,
+        "veredict": null
+    },
+    "id_355.jpg": {
+        "og_filename": "tif_1_mosaico_0041_0007.png",
+        "class": "construction waste",
+        "confidence": 0.5161,
+        "veredict": null
+    },
+    "id_356.jpg": {
+        "og_filename": "tif_1_mosaico_0037_0034.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4177,
+        "veredict": null
+    },
+    "id_357.jpg": {
+        "og_filename": "tif_1_mosaico_0029_0048.png",
+        "class": "domestic garbage",
+        "confidence": 0.4315,
+        "veredict": null
+    },
+    "id_358.jpg": {
+        "og_filename": "tif_1_mosaico_0045_0028.png",
+        "class": "construction waste",
+        "confidence": 0.3182,
+        "veredict": null
+    },
+    "id_359.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0009.png",
+        "class": "construction waste",
+        "confidence": 0.3586,
+        "veredict": null
+    },
+    "id_360.jpg": {
+        "og_filename": "tif_1_mosaico_0008_0033.png",
+        "class": "domestic garbage",
+        "confidence": 0.3844,
+        "veredict": null
+    },
+    "id_361.jpg": {
+        "og_filename": "tif_1_mosaico_0032_0012.png",
+        "class": "domestic garbage",
+        "confidence": 0.5376,
+        "veredict": null
+    },
+    "id_362.jpg": {
+        "og_filename": "tif_1_mosaico_0028_0024.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4267,
+        "veredict": null
+    },
+    "id_363.jpg": {
+        "og_filename": "tif_6_mosaico_0031_0015.png",
+        "class": "construction waste",
+        "confidence": 0.7203,
+        "veredict": null
+    },
+    "id_364.jpg": {
+        "og_filename": "tif_1_mosaico_0066_0024.png",
+        "class": "domestic garbage",
+        "confidence": 0.5618,
+        "veredict": null
+    },
+    "id_365.jpg": {
+        "og_filename": "tif_1_mosaico_0066_0024.png",
+        "class": "domestic garbage",
+        "confidence": 0.3085,
+        "veredict": null
+    },
+    "id_366.jpg": {
+        "og_filename": "tif_1_mosaico_0039_0003.png",
+        "class": "domestic garbage",
+        "confidence": 0.7915,
+        "veredict": null
+    },
+    "id_367.jpg": {
+        "og_filename": "tif_7_mosaico_0005_0010.png",
+        "class": "construction waste",
+        "confidence": 0.4127,
+        "veredict": null
+    },
+    "id_368.jpg": {
+        "og_filename": "tif_5_mosaico_0102_0015.png",
+        "class": "construction waste",
+        "confidence": 0.3271,
+        "veredict": null
+    },
+    "id_369.jpg": {
+        "og_filename": "tif_1_mosaico_0057_0002.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4473,
+        "veredict": null
+    },
+    "id_370.jpg": {
+        "og_filename": "tif_1_mosaico_0033_0023.png",
+        "class": "domestic garbage",
+        "confidence": 0.4722,
+        "veredict": null
+    },
+    "id_371.jpg": {
+        "og_filename": "tif_5_mosaico_0021_0034.png",
+        "class": "construction waste",
+        "confidence": 0.6054,
+        "veredict": null
+    },
+    "id_372.jpg": {
+        "og_filename": "tif_2_mosaico_0001_0009.png",
+        "class": "construction waste",
+        "confidence": 0.6017,
+        "veredict": null
+    },
+    "id_373.jpg": {
+        "og_filename": "tif_1_mosaico_0053_0005.png",
+        "class": "construction waste",
+        "confidence": 0.3303,
+        "veredict": null
+    },
+    "id_374.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0008.png",
+        "class": "construction waste",
+        "confidence": 0.5939,
+        "veredict": null
+    },
+    "id_375.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0008.png",
+        "class": "construction waste",
+        "confidence": 0.5138,
+        "veredict": null
+    },
+    "id_376.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0008.png",
+        "class": "construction waste",
+        "confidence": 0.4738,
+        "veredict": null
+    },
+    "id_377.jpg": {
+        "og_filename": "tif_1_mosaico_0018_0008.png",
+        "class": "construction waste",
+        "confidence": 0.4386,
+        "veredict": null
+    },
+    "id_378.jpg": {
+        "og_filename": "tif_1_mosaico_0056_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.5927,
+        "veredict": null
+    },
+    "id_379.jpg": {
+        "og_filename": "tif_1_mosaico_0003_0013.png",
+        "class": "domestic garbage",
+        "confidence": 0.8668,
+        "veredict": null
+    },
+    "id_380.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0012.png",
+        "class": "domestic garbage",
+        "confidence": 0.7109,
+        "veredict": null
+    },
+    "id_381.jpg": {
+        "og_filename": "tif_13_mosaico_0025_0015.png",
+        "class": "construction waste",
+        "confidence": 0.66,
+        "veredict": null
+    },
+    "id_382.jpg": {
+        "og_filename": "tif_12_mosaico_0012_0012.png",
+        "class": "construction waste",
+        "confidence": 0.4307,
+        "veredict": null
+    },
+    "id_383.jpg": {
+        "og_filename": "tif_6_mosaico_0029_0018.png",
+        "class": "construction waste",
+        "confidence": 0.3724,
+        "veredict": null
+    },
+    "id_384.jpg": {
+        "og_filename": "tif_1_mosaico_0042_0025.png",
+        "class": "domestic garbage",
+        "confidence": 0.5729,
+        "veredict": null
+    },
+    "id_385.jpg": {
+        "og_filename": "tif_1_mosaico_0063_0026.png",
+        "class": "domestic garbage",
+        "confidence": 0.6505,
+        "veredict": null
+    },
+    "id_386.jpg": {
+        "og_filename": "tif_1_mosaico_0047_0017.png",
+        "class": "domestic garbage",
+        "confidence": 0.6189,
+        "veredict": null
+    },
+    "id_387.jpg": {
+        "og_filename": "tif_1_mosaico_0037_0001.png",
+        "class": "domestic garbage",
+        "confidence": 0.6028,
+        "veredict": null
+    },
+    "id_388.jpg": {
+        "og_filename": "tif_13_mosaico_0013_0008.png",
+        "class": "construction waste",
+        "confidence": 0.53,
+        "veredict": null
+    },
+    "id_389.jpg": {
+        "og_filename": "tif_1_mosaico_0049_0020.png",
+        "class": "domestic garbage",
+        "confidence": 0.3651,
+        "veredict": null
+    },
+    "id_390.jpg": {
+        "og_filename": "tif_1_mosaico_0049_0020.png",
+        "class": "construction waste",
+        "confidence": 0.3612,
+        "veredict": null
+    },
+    "id_391.jpg": {
+        "og_filename": "tif_1_mosaico_0029_0011.png",
+        "class": "domestic garbage",
+        "confidence": 0.3818,
+        "veredict": null
+    },
+    "id_392.jpg": {
+        "og_filename": "tif_1_mosaico_0063_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.628,
+        "veredict": null
+    },
+    "id_393.jpg": {
+        "og_filename": "tif_1_mosaico_0020_0040.png",
+        "class": "domestic garbage",
+        "confidence": 0.9407,
+        "veredict": null
+    },
+    "id_394.jpg": {
+        "og_filename": "tif_1_mosaico_0010_0031.png",
+        "class": "domestic garbage",
+        "confidence": 0.3764,
+        "veredict": null
+    },
+    "id_395.jpg": {
+        "og_filename": "tif_1_mosaico_0053_0015.png",
+        "class": "construction waste",
+        "confidence": 0.84,
+        "veredict": null
+    },
+    "id_396.jpg": {
+        "og_filename": "tif_1_mosaico_0038_0041.png",
+        "class": "construction waste",
+        "confidence": 0.4862,
+        "veredict": null
+    },
+    "id_397.jpg": {
+        "og_filename": "tif_1_mosaico_0056_0007.png",
+        "class": "domestic garbage",
+        "confidence": 0.4945,
+        "veredict": null
+    },
+    "id_398.jpg": {
+        "og_filename": "tif_3_mosaico_0016_0003.png",
+        "class": "construction waste",
+        "confidence": 0.7047,
+        "veredict": null
+    },
+    "id_399.jpg": {
+        "og_filename": "tif_3_mosaico_0016_0003.png",
+        "class": "construction waste",
+        "confidence": 0.4627,
+        "veredict": null
+    },
+    "id_400.jpg": {
+        "og_filename": "tif_3_mosaico_0016_0003.png",
+        "class": "construction waste",
+        "confidence": 0.3632,
+        "veredict": null
+    },
+    "id_401.jpg": {
+        "og_filename": "tif_3_mosaico_0016_0003.png",
+        "class": "construction waste",
+        "confidence": 0.3373,
+        "veredict": null
+    },
+    "id_402.jpg": {
+        "og_filename": "tif_1_mosaico_0011_0006.png",
+        "class": "domestic garbage",
+        "confidence": 0.3621,
+        "veredict": null
+    },
+    "id_403.jpg": {
+        "og_filename": "tif_1_mosaico_0020_0043.png",
+        "class": "agriculture forestry",
+        "confidence": 0.5428,
+        "veredict": null
+    },
+    "id_404.jpg": {
+        "og_filename": "tif_1_mosaico_0045_0006.png",
+        "class": "domestic garbage",
+        "confidence": 0.514,
+        "veredict": null
+    },
+    "id_405.jpg": {
+        "og_filename": "tif_6_mosaico_0028_0019.png",
+        "class": "construction waste",
+        "confidence": 0.4573,
+        "veredict": null
+    },
+    "id_406.jpg": {
+        "og_filename": "tif_1_mosaico_0024_0042.png",
+        "class": "domestic garbage",
+        "confidence": 0.7963,
+        "veredict": null
+    },
+    "id_407.jpg": {
+        "og_filename": "tif_1_mosaico_0016_0046.png",
+        "class": "domestic garbage",
+        "confidence": 0.3925,
+        "veredict": null
+    },
+    "id_408.jpg": {
+        "og_filename": "tif_1_mosaico_0063_0023.png",
+        "class": "domestic garbage",
+        "confidence": 0.3754,
+        "veredict": null
+    },
+    "id_409.jpg": {
+        "og_filename": "tif_5_mosaico_0033_0021.png",
+        "class": "construction waste",
+        "confidence": 0.5353,
+        "veredict": null
+    },
+    "id_410.jpg": {
+        "og_filename": "tif_1_mosaico_0048_0008.png",
+        "class": "domestic garbage",
+        "confidence": 0.4814,
+        "veredict": null
+    },
+    "id_411.jpg": {
+        "og_filename": "tif_1_mosaico_0048_0008.png",
+        "class": "construction waste",
+        "confidence": 0.5029,
+        "veredict": null
+    },
+    "id_412.jpg": {
+        "og_filename": "tif_1_mosaico_0048_0008.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3209,
+        "veredict": null
+    },
+    "id_413.jpg": {
+        "og_filename": "tif_1_mosaico_0040_0013.png",
+        "class": "construction waste",
+        "confidence": 0.6154,
+        "veredict": null
+    },
+    "id_414.jpg": {
+        "og_filename": "tif_1_mosaico_0007_0015.png",
+        "class": "agriculture forestry",
+        "confidence": 0.7694,
+        "veredict": null
+    },
+    "id_415.jpg": {
+        "og_filename": "tif_1_mosaico_0025_0044.png",
+        "class": "domestic garbage",
+        "confidence": 0.4575,
+        "veredict": null
+    },
+    "id_416.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0008.png",
+        "class": "domestic garbage",
+        "confidence": 0.4904,
+        "veredict": null
+    },
+    "id_417.jpg": {
+        "og_filename": "tif_1_mosaico_0063_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.4749,
+        "veredict": null
+    },
+    "id_418.jpg": {
+        "og_filename": "tif_5_mosaico_0026_0029.png",
+        "class": "construction waste",
+        "confidence": 0.4081,
+        "veredict": null
+    },
+    "id_419.jpg": {
+        "og_filename": "tif_1_mosaico_0059_0024.png",
+        "class": "domestic garbage",
+        "confidence": 0.3735,
+        "veredict": null
+    },
+    "id_420.jpg": {
+        "og_filename": "tif_1_mosaico_0043_0016.png",
+        "class": "construction waste",
+        "confidence": 0.3418,
+        "veredict": null
+    },
+    "id_421.jpg": {
+        "og_filename": "tif_1_mosaico_0022_0036.png",
+        "class": "domestic garbage",
+        "confidence": 0.3423,
+        "veredict": null
+    },
+    "id_422.jpg": {
+        "og_filename": "tif_1_mosaico_0013_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.5562,
+        "veredict": null
+    },
+    "id_423.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0025.png",
+        "class": "construction waste",
+        "confidence": 0.6321,
+        "veredict": null
+    },
+    "id_424.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0025.png",
+        "class": "construction waste",
+        "confidence": 0.6062,
+        "veredict": null
+    },
+    "id_425.jpg": {
+        "og_filename": "tif_1_mosaico_0027_0020.png",
+        "class": "construction waste",
+        "confidence": 0.9029,
+        "veredict": null
+    },
+    "id_426.jpg": {
+        "og_filename": "tif_1_mosaico_0050_0035.png",
+        "class": "domestic garbage",
+        "confidence": 0.3137,
+        "veredict": null
+    },
+    "id_427.jpg": {
+        "og_filename": "tif_1_mosaico_0030_0018.png",
+        "class": "agriculture forestry",
+        "confidence": 0.6354,
+        "veredict": null
+    },
+    "id_428.jpg": {
+        "og_filename": "tif_1_mosaico_0030_0018.png",
+        "class": "agriculture forestry",
+        "confidence": 0.3012,
+        "veredict": null
+    },
+    "id_429.jpg": {
+        "og_filename": "tif_6_mosaico_0032_0028.png",
+        "class": "domestic garbage",
+        "confidence": 0.5312,
+        "veredict": null
+    },
+    "id_430.jpg": {
+        "og_filename": "tif_3_mosaico_0014_0003.png",
+        "class": "construction waste",
+        "confidence": 0.5442,
+        "veredict": null
+    },
+    "id_431.jpg": {
+        "og_filename": "tif_6_mosaico_0022_0013.png",
+        "class": "domestic garbage",
+        "confidence": 0.4934,
+        "veredict": null
+    },
+    "id_432.jpg": {
+        "og_filename": "tif_1_mosaico_0052_0034.png",
+        "class": "domestic garbage",
+        "confidence": 0.3043,
+        "veredict": null
+    },
+    "id_433.jpg": {
+        "og_filename": "tif_1_mosaico_0037_0035.png",
+        "class": "domestic garbage",
+        "confidence": 0.5869,
+        "veredict": null
+    },
+    "id_434.jpg": {
+        "og_filename": "tif_1_mosaico_0008_0031.png",
+        "class": "construction waste",
+        "confidence": 0.8921,
+        "veredict": null
+    },
+    "id_435.jpg": {
+        "og_filename": "tif_1_mosaico_0066_0027.png",
+        "class": "domestic garbage",
+        "confidence": 0.346,
+        "veredict": null
+    },
+    "id_436.jpg": {
+        "og_filename": "tif_6_mosaico_0029_0007.png",
+        "class": "construction waste",
+        "confidence": 0.3566,
+        "veredict": null
+    },
+    "id_437.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0007.png",
+        "class": "construction waste",
+        "confidence": 0.9339,
+        "veredict": null
+    },
+    "id_438.jpg": {
+        "og_filename": "tif_1_mosaico_0061_0029.png",
+        "class": "domestic garbage",
+        "confidence": 0.6662,
+        "veredict": null
+    },
+    "id_439.jpg": {
+        "og_filename": "tif_2_mosaico_0025_0016.png",
+        "class": "construction waste",
+        "confidence": 0.3604,
+        "veredict": null
+    },
+    "id_440.jpg": {
+        "og_filename": "tif_1_mosaico_0019_0010.png",
+        "class": "domestic garbage",
+        "confidence": 0.309,
+        "veredict": null
+    },
+    "id_441.jpg": {
+        "og_filename": "tif_1_mosaico_0015_0021.png",
+        "class": "domestic garbage",
+        "confidence": 0.7519,
+        "veredict": null
+    },
+    "id_442.jpg": {
+        "og_filename": "tif_5_mosaico_0107_0023.png",
+        "class": "construction waste",
+        "confidence": 0.6114,
+        "veredict": null
+    },
+    "id_443.jpg": {
+        "og_filename": "tif_1_mosaico_0044_0029.png",
+        "class": "domestic garbage",
+        "confidence": 0.3226,
+        "veredict": null
+    },
+    "id_444.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0040.png",
+        "class": "domestic garbage",
+        "confidence": 0.6404,
+        "veredict": null
+    },
+    "id_445.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0040.png",
+        "class": "domestic garbage",
+        "confidence": 0.6179,
+        "veredict": null
+    },
+    "id_446.jpg": {
+        "og_filename": "tif_1_mosaico_0021_0040.png",
+        "class": "domestic garbage",
+        "confidence": 0.6118,
+        "veredict": null
+    },
+    "id_447.jpg": {
+        "og_filename": "tif_5_mosaico_0109_0018.png",
+        "class": "construction waste",
+        "confidence": 0.357,
+        "veredict": null
+    },
+    "id_448.jpg": {
+        "og_filename": "tif_1_mosaico_0039_0024.png",
+        "class": "construction waste",
+        "confidence": 0.3835,
+        "veredict": null
+    },
+    "id_449.jpg": {
+        "og_filename": "tif_13_mosaico_0023_0003.png",
+        "class": "construction waste",
+        "confidence": 0.5253,
+        "veredict": null
+    },
+    "id_450.jpg": {
+        "og_filename": "tif_1_mosaico_0044_0025.png",
+        "class": "domestic garbage",
+        "confidence": 0.3375,
+        "veredict": null
+    },
+    "id_451.jpg": {
+        "og_filename": "tif_1_mosaico_0051_0027.png",
+        "class": "agriculture forestry",
+        "confidence": 0.4466,
+        "veredict": null
+    },
+    "id_452.jpg": {
+        "og_filename": "tif_1_mosaico_0045_0015.png",
+        "class": "domestic garbage",
+        "confidence": 0.6142,
+        "veredict": null
+    },
+    "id_453.jpg": {
+        "og_filename": "tif_1_mosaico_0020_0034.png",
+        "class": "domestic garbage",
+        "confidence": 0.3622,
+        "veredict": null
+    },
+    "id_454.jpg": {
+        "og_filename": "tif_1_mosaico_0057_0031.png",
+        "class": "agriculture forestry",
+        "confidence": 0.5697,
+        "veredict": null
+    },
+    "id_455.jpg": {
+        "og_filename": "tif_12_mosaico_0021_0031.png",
+        "class": "construction waste",
+        "confidence": 0.4113,
+        "veredict": null
+    },
+    "id_456.jpg": {
+        "og_filename": "tif_1_mosaico_0020_0019.png",
+        "class": "construction waste",
+        "confidence": 0.9212,
+        "veredict": null
+    },
+    "id_457.jpg": {
+        "og_filename": "tif_1_mosaico_0020_0019.png",
+        "class": "construction waste",
+        "confidence": 0.8096,
+        "veredict": null
+    },
+    "id_458.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0009.png",
+        "class": "domestic garbage",
+        "confidence": 0.3033,
+        "veredict": null
+    },
+    "id_459.jpg": {
+        "og_filename": "tif_1_mosaico_0017_0009.png",
+        "class": "construction waste",
+        "confidence": 0.6031,
+        "veredict": null
+    },
+    "id_460.jpg": {
+        "og_filename": "tif_5_mosaico_0094_0027.png",
+        "class": "construction waste",
+        "confidence": 0.4658,
+        "veredict": null
+    },
+    "id_461.jpg": {
+        "og_filename": "tif_7_mosaico_0006_0013.png",
+        "class": "construction waste",
+        "confidence": 0.6051,
+        "veredict": null
+    },
+    "id_462.jpg": {
+        "og_filename": "tif_1_mosaico_0009_0013.png",
+        "class": "domestic garbage",
+        "confidence": 0.3857,
+        "veredict": null
+    },
+    "id_463.jpg": {
+        "og_filename": "tif_1_mosaico_0050_0024.png",
+        "class": "construction waste",
+        "confidence": 0.4733,
+        "veredict": null
+    }
+}
